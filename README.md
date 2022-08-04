@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @analiseb
-- 👀 I’m interested in data visualization, time series analysis, and explainable ML
+- 👀 I’m interested in data visualization, time series forecasting, and explainable ML
 - 🌱 I’m currently learning geospatial analysis and probabalistic graphical modeling
 - 💞️ I’m looking to collaborate on health-aimed GIS projects
 - 📫 How to reach me: analise98@outlook.com or at linkedin.com/in/analiseb
