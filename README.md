@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @analiseb
-- 👀 I’m interested in data visualization, time series forecasting, and product data science
+- 👀 I’m interested in data visualization, time series forecasting, and product analytics
 - 🌱 I’m currently learning geospatial analysis and probabalistic graphical modeling
 - 📫 How to reach me: analise98@outlook.com or at linkedin.com/in/analiseb
 
